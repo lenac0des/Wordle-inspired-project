@@ -37,7 +37,7 @@ while num_of_guesses < 6 and not correct_guess:
 
 
     #processing the guess
-    correct_guess = processGuess(wordle_answer, word_curveguess)
+    correct_guess = processGuess(wordle_answer, word_guess)
 
 
 #ending of wordle game message
